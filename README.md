@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science in CMU**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/jiangyue-luna-zhu-945b7a1b4/</h3>
 <p align="left">
 </p>
 
