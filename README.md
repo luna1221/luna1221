@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jiangyue</h1>
-<h3 align="center">A passionate data scientist from US</h3>
+<h3 align="center">A passionate data scientist</h3>
 
 - 🌱 I’m currently learning **Data Science in CMU**
 
