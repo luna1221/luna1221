@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jiangyue</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 
-- 🌱 I’m currently learning **Data Science in CMU**
+- 🌱 I recently graduated from Carnegie Mellon University with a Master's in Data Analytics for Science, earning a top-ranked GPA of 4.26/4.33. I'm currently actively seeking a full-time data scientist/analyst position.
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/jiangyue-luna-zhu-945b7a1b4/</h3>
 <p align="left">
